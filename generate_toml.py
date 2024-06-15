@@ -115,7 +115,7 @@ options = Options(
 # Define the general information of your package
 kwargs = Kwargs(
     name_space="crimson",
-    module_name="code-extractor",
+    module_name="data-class",
     description="From source code, extract useful information.",
 )
 
