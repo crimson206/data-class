@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "crimson-data-class"
-version = "0.1.2b1"
+version = "0.1.2b2"
 description = "From source code, extract useful information."
 readme = "README.md"
 authors = [
