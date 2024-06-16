@@ -1,8 +1,6 @@
-from typing import List, Dict, Any, TypeVar
+from typing import List, Dict, Any
 from pydantic import BaseModel
-import pandas as pd
-
-T = TypeVar("T", bound=BaseModel)
+from .pandas import pd
 
 
 class DataClassList(BaseModel):

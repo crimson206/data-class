@@ -22,7 +22,6 @@ classifiers = [
 ]
 dependencies = [
     "pydantic",
-    "pandas",
 ]
 requires-python = ">=3.9"
 
