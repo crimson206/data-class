@@ -1,6 +1,12 @@
 name: Release Workflow
 
 on:
+  pull_request:
+    branches:
+      - main
+    types: [closed]
+    paths:
+      - 'release/*'
   workflow_dispatch:
 
 jobs:
