@@ -116,7 +116,7 @@ options = Options(
 kwargs = Kwargs(
     name_space="crimson",
     module_name="data-class",
-    description="From source code, extract useful information.",
+    description="Pre-defined control of many of pydantic data classes.",
 )
 
 # endregion
