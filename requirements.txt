@@ -2,3 +2,4 @@ pydantic
 coverage
 pandas
 pytest
+pytest-cov
